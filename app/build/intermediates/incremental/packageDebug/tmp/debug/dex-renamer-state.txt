@@ -1,0 +1,4 @@
+#Sun Apr 12 00:35:07 SGT 2020
+base.0=C\:\\Users\\ASUS\\AndroidStudioProjects\\LoveTravelling\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
